@@ -12,8 +12,8 @@ Customizable Alerts: Configures alerts for specific network events or anomalies,
 Data Export: Supports exporting captured data to various formats (PCAP, CSV, JSON) for further analysis or reporting. <br />
 User-Friendly Interface: Features an intuitive interface with dashboards, tables, and visualization tools for easy navigation and analysis. <br />
 # Implementation
-Programming Language: Primarily developed using Python due to its extensive libraries and ease of integration.
-Libraries Used:
+Programming Language: Primarily developed using Python due to its extensive libraries and ease of integration. <br />
+Libraries Used: <br />
 scapy for packet capturing and manipulation. <br />
 PyQt for developing the graphical user interface. <br />
 matplotlib and seaborn for traffic visualization. <br />
